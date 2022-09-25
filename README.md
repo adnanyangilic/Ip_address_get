@@ -1,2 +1,2 @@
 # Ip_address_get
-You must check to see Home controller, Index.cshtml and startup.cs
+This simple project gets visitor client IP address. You must check to see Home controller, Index.cshtml and startup.cs
